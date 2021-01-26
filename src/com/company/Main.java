@@ -24,6 +24,7 @@ public class Main {
         System.out.println("Введите ваше имя:");
         String name = scanner.nextLine();
         System.out.println("Ассаламу Алейкум " + name);
+        System.out.println("Канча жаштасыз?");
 
 
 
